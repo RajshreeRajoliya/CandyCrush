@@ -1,3 +1,6 @@
+### Candy Crush Saga
+
+![image](https://github.com/RajshreeRajoliya/CandyCrush/assets/113670900/0545427c-25c4-411f-8310-e4297527181d)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
